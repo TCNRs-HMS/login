@@ -18,5 +18,7 @@ INSERT INTO users (username, email, password)
 VALUES ('rey', 'rey@gmail.com', 'rey');
 
 //PASTE NTO SA CHROME or ANY BROWSER tong mga links//
-//NEED PALA RUNNING NA ANG XAMPP nyo at naka open na ang ADMIN nyo
 http://localhost/project-folder/register.php
+
+//NEED PALA RUNNING NA ANG XAMPP nyo at naka open na ang ADMIN nyo
+
